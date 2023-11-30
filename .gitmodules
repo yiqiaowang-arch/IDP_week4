@@ -1,0 +1,6 @@
+[submodule "rivus"]
+	path = rivus
+	url = https://github.com/yiqiaowang-arch/rivus
+[submodule "urbs"]
+	path = urbs
+	url = https://github.com/yiqiaowang-arch/urbs
