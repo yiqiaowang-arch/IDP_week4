@@ -1,4 +1,4 @@
-name: rivus
+name: IDP_week4
 channels:
   - conda-forge
 dependencies:
@@ -192,4 +192,3 @@ dependencies:
   - zipp=3.6.0=pyhd8ed1ab_0
   - zlib=1.2.13=hcfcfb64_5
   - zstd=1.4.9=h6255e5f_0
-prefix: C:\Users\wangy\miniforge3\envs\rivus
